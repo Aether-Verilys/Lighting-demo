@@ -1,0 +1,6 @@
+{
+  "name": "Lumina 3D - 实时渲染与材质光影实验室",
+  "description": "交互式 3D 实时渲染演示平台，探索直接光、间接光 (IBL)、PBR 物理着色、环境光遮蔽 (AO) 以及柔化阴影等核心渲染特性的材质表现。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
